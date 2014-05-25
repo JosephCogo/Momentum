@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/RegisterViewContainer.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/RegisterViewContainer</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>RegisterViewContainer.h</DeclaredIn>
+            
+			
+			<NodeRef refid="6"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RegisterViewContainer/setInterestRow1:</TokenIdentifier>
+			<Abstract type="html">OUTLET COLLECTIONS FOR THE VIEWS*</Abstract>
+			<DeclaredIn>RegisterViewContainer.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) IBOutletCollection ( UIButton ) NSArray *interestRow1</Declaration>
+			
+			
+			<Anchor>//api/name/interestRow1</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/RegisterViewContainer/interestRow1</TokenIdentifier>
+			<Abstract type="html">OUTLET COLLECTIONS FOR THE VIEWS*</Abstract>
+			<DeclaredIn>RegisterViewContainer.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) IBOutletCollection ( UIButton ) NSArray *interestRow1</Declaration>
+			
+			
+			<Anchor>//api/name/interestRow1</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/RegisterViewContainer/interestRow1</TokenIdentifier>
+			<Abstract type="html">OUTLET COLLECTIONS FOR THE VIEWS*</Abstract>
+			<DeclaredIn>RegisterViewContainer.m</DeclaredIn>
+			
+			<Declaration>@property (strong, nonatomic) IBOutletCollection ( UIButton ) NSArray *interestRow1</Declaration>
+			
+			
+			<Anchor>//api/name/interestRow1</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LoginController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LoginController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LoginController.h</DeclaredIn>
+            
+			
+			<NodeRef refid="4"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LoginController/touchesBegan:withEvent:</TokenIdentifier>
+			<Abstract type="html">/#pragma mark delegate methods</Abstract>
+			<DeclaredIn>LoginController.m</DeclaredIn>
+			
+			<Declaration>- (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event</Declaration>
+			
+			
+			<Anchor>//api/name/touchesBegan:withEvent:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>
